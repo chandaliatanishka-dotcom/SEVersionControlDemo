@@ -1,0 +1,6 @@
+public class SmartInventory {
+    public static void main(String[] args) {
+        System.out.println("Smart Inventory Management System");
+        System.out.println("Welcome, Admin!");
+    }
+}
